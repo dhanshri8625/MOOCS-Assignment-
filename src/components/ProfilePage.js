@@ -8,8 +8,8 @@ import profilePic from './ProfilePic/profile-picture.jpg';
 const ProfilePage = () => {
     const user = {
         name: 'Dhanshri Ghadge',
-        email: 'dhanshrighadge@2004gmail.com',
-        bio: 'A passionate web developer from Shirala.',
+        email: 'dhanshrighadge2004@gmail.com',
+        bio: 'A passionate web developer from Raygaon.',
         profilePicUrl: profilePic // Placeholder image
     };
 
